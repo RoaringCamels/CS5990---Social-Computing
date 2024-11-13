@@ -128,6 +128,7 @@ class ParallelGraphCentralityCalculator:
             if dist > distances[node]:
                 continue
 
+            print(f"Processing node {node}")  # Debug log
             for neighbor, weight in enumerate(self.graph[node]):
                 if weight > 0:
                     new_dist = dist + weight

@@ -6,7 +6,7 @@ def main():
 
 def test():
     dataPath = f"GA2/data/facebook_combined.txt"
-    calc = ParallelGraphCentralityCalculator(dataPath, sample_fraction=0.1)
+    calc = ParallelGraphCentralityCalculator(dataPath, sample_fraction=0.05)
     calc.calculate_centrality()
 
 if __name__ == "__main__":
