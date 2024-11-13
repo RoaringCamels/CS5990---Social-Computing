@@ -4,7 +4,7 @@ import heapq
 import random
 
 class ParallelGraphCentralityCalculator:
-    def __init__(self, graph_file, sample_fraction=0.1):
+    def __init__(self, graph_file):
         self.comm = MPI.COMM_WORLD
         self.rank = self.comm.Get_rank()
         self.size = self.comm.Get_size()
@@ -15,8 +15,7 @@ class ParallelGraphCentralityCalculator:
         self.local_n = self.n // self.size
         if self.rank < self.n % self.size:
             self.local_n += 1
-            
-        self.sample_fraction = sample_fraction
+    
 
     def load_graph(self, file_path):
         # Determine the graph size by reading the file or set a fixed size
@@ -42,18 +41,19 @@ class ParallelGraphCentralityCalculator:
             for j in range(i + 1, self.n):  # Only consider the upper triangle
                 if self.graph[i][j] == 1:
                     edges.append((i, j))
-
-        # Sample 10% of the edges
-        sampled_edges = random.sample(edges, int(len(edges) * sample_fraction))
-
-        # Create a new graph matrix with only the sampled edges
-        sampled_graph = np.zeros((self.n, self.n), dtype=int)
-        for u, v in sampled_edges:
-            sampled_graph[u][v] = 1
-            sampled_graph[v][u] = 1
-
-        # Update the graph with the sampled edges
+        
+        # Sample edges based on the fraction
+        num_edges_to_sample = int(len(edges) * sample_fraction)
+        sampled_edges = random.sample(edges, num_edges_to_sample)
+        
+        # Create new sampled graph
+        sampled_graph = np.zeros_like(self.graph)
+        for i, j in sampled_edges:
+            sampled_graph[i][j] = 1
+            sampled_graph[j][i] = 1  # Maintain symmetry
+            
         self.graph = sampled_graph
+        return sampled_graph
 
     def calculate_centrality(self):
         local_closeness = np.zeros(self.local_n)
