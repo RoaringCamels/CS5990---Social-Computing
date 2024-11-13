@@ -97,5 +97,11 @@ def test():
         if rank == 0:
             print(f"An error occurred: {str(e)}")
 
+
+"""
+Run this code with mpirun and choose number of nodes
+
+mpirun -n 4 python3 GA2/main.py
+"""
 if __name__ == "__main__":
     test()
