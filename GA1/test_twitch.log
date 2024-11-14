@@ -1,0 +1,18 @@
+========================================= Twitch ======================================
+========================================= Original Network ======================================
+Size:  168114
+Average Degree:  80.86842261798542
+Average Path Length By Taking 10% Nodes In Original: 3.844158964486854
+Average Path Length By Taking 20% Nodes In Original: 3.3423478583201973
+Average Path Length By Using Random Walk Algorithm: 2.6008
+Clustering Coefficient:  0.15992499330884682
+========================================= Barabasi-Albert ======================================
+Average Path Length By Taking 10% Nodes In Original: 4.220375010480189
+Average Path Length By Taking 20% Nodes In Original: 3.603310185546865
+Average Path Length By Using Random Walk Algorithm: 2.8442
+Clustering Coefficient:  0.0032898140766689653
+========================================= Watts-Strogatz ======================================
+Average Path Length By Taking 10% Nodes In Original: 7.578791107000047
+Average Path Length By Taking 20% Nodes In Original: 5.486381718559269
+Average Path Length By Using Random Walk Algorithm: 3.7027
+Clustering Coefficient:  0.5407262238058127
