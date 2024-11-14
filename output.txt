@@ -1,429 +1,1716 @@
-Node 0: Closeness Centrality = 0.0023
-Node 1: Closeness Centrality = 0.0012
-Node 2: Closeness Centrality = 0.0012
-Node 3: Closeness Centrality = 0.0012
-Node 4: Closeness Centrality = 0.0012
-Node 5: Closeness Centrality = 0.0012
-Node 6: Closeness Centrality = 0.0012
-Node 7: Closeness Centrality = 0.0012
-Node 8: Closeness Centrality = 0.0012
-Node 9: Closeness Centrality = 0.0013
-Node 10: Closeness Centrality = 0.0012
-Node 11: Closeness Centrality = 0.0012
-Node 12: Closeness Centrality = 0.0012
-Node 13: Closeness Centrality = 0.0012
-Node 14: Closeness Centrality = 0.0012
-Node 15: Closeness Centrality = 0.0012
-Node 16: Closeness Centrality = 0.0012
-Node 17: Closeness Centrality = 0.0012
-Node 18: Closeness Centrality = 0.0012
-Node 19: Closeness Centrality = 0.0012
-Node 20: Closeness Centrality = 0.0012
-Node 21: Closeness Centrality = 0.0013
-Node 22: Closeness Centrality = 0.0012
-Node 23: Closeness Centrality = 0.0012
-Node 24: Closeness Centrality = 0.0012
-Node 25: Closeness Centrality = 0.0013
-Node 26: Closeness Centrality = 0.0013
-Node 27: Closeness Centrality = 0.0012
-Node 28: Closeness Centrality = 0.0012
-Node 29: Closeness Centrality = 0.0012
-Node 30: Closeness Centrality = 0.0012
-Node 31: Closeness Centrality = 0.0012
-Node 32: Closeness Centrality = 0.0012
-Node 33: Closeness Centrality = 0.0012
-Node 34: Closeness Centrality = 0.0012
-Node 35: Closeness Centrality = 0.0012
-Node 36: Closeness Centrality = 0.0012
-Node 37: Closeness Centrality = 0.0012
-Node 38: Closeness Centrality = 0.0012
-Node 39: Closeness Centrality = 0.0012
-Node 40: Closeness Centrality = 0.0012
-Node 41: Closeness Centrality = 0.0012
-Node 42: Closeness Centrality = 0.0012
-Node 43: Closeness Centrality = 0.0012
-Node 44: Closeness Centrality = 0.0012
-Node 45: Closeness Centrality = 0.0012
-Node 46: Closeness Centrality = 0.0012
-Node 47: Closeness Centrality = 0.0012
-Node 48: Closeness Centrality = 0.0012
-Node 49: Closeness Centrality = 0.0012
-Node 50: Closeness Centrality = 0.0012
-Node 51: Closeness Centrality = 0.0012
-Node 52: Closeness Centrality = 0.0012
-Node 53: Closeness Centrality = 0.0012
-Node 54: Closeness Centrality = 0.0012
-Node 55: Closeness Centrality = 0.0012
-Node 56: Closeness Centrality = 0.0012
-Node 57: Closeness Centrality = 0.0012
-Node 58: Closeness Centrality = 0.0012
-Node 59: Closeness Centrality = 0.0012
-Node 60: Closeness Centrality = 0.0012
-Node 61: Closeness Centrality = 0.0012
-Node 62: Closeness Centrality = 0.0012
-Node 63: Closeness Centrality = 0.0012
-Node 64: Closeness Centrality = 0.0012
-Node 65: Closeness Centrality = 0.0012
-Node 66: Closeness Centrality = 0.0012
-Node 67: Closeness Centrality = 0.0012
-Node 68: Closeness Centrality = 0.0012
-Node 69: Closeness Centrality = 0.0012
-Node 70: Closeness Centrality = 0.0012
-Node 71: Closeness Centrality = 0.0012
-Node 72: Closeness Centrality = 0.0012
-Node 73: Closeness Centrality = 0.0012
-Node 74: Closeness Centrality = 0.0012
-Node 75: Closeness Centrality = 0.0012
-Node 76: Closeness Centrality = 0.0012
-Node 77: Closeness Centrality = 0.0012
-Node 78: Closeness Centrality = 0.0012
-Node 79: Closeness Centrality = 0.0012
-Node 80: Closeness Centrality = 0.0012
-Node 81: Closeness Centrality = 0.0012
-Node 82: Closeness Centrality = 0.0012
-Node 83: Closeness Centrality = 0.0012
-Node 84: Closeness Centrality = 0.0012
-Node 85: Closeness Centrality = 0.0012
-Node 86: Closeness Centrality = 0.0012
-Node 87: Closeness Centrality = 0.0012
-Node 88: Closeness Centrality = 0.0012
-Node 89: Closeness Centrality = 0.0012
-Node 90: Closeness Centrality = 0.0012
-Node 91: Closeness Centrality = 0.0012
-Node 92: Closeness Centrality = 0.0012
-Node 93: Closeness Centrality = 0.0012
-Node 94: Closeness Centrality = 0.0012
-Node 95: Closeness Centrality = 0.0012
-Node 96: Closeness Centrality = 0.0012
-Node 97: Closeness Centrality = 0.0012
-Node 98: Closeness Centrality = 0.0012
-Node 99: Closeness Centrality = 0.0012
-Node 100: Closeness Centrality = 0.0012
-Node 101: Closeness Centrality = 0.0012
-Node 102: Closeness Centrality = 0.0012
-Node 103: Closeness Centrality = 0.0012
-Node 104: Closeness Centrality = 0.0012
-Node 105: Closeness Centrality = 0.0012
-Node 106: Closeness Centrality = 0.0012
-Node 107: Closeness Centrality = 0.0012
-Node 108: Closeness Centrality = 0.0012
-Node 109: Closeness Centrality = 0.0012
-Node 110: Closeness Centrality = 0.0012
-Node 111: Closeness Centrality = 0.0012
-Node 112: Closeness Centrality = 0.0012
-Node 113: Closeness Centrality = 0.0012
-Node 114: Closeness Centrality = 0.0012
-Node 115: Closeness Centrality = 0.0012
-Node 116: Closeness Centrality = 0.0012
-Node 117: Closeness Centrality = 0.0012
-Node 118: Closeness Centrality = 0.0012
-Node 119: Closeness Centrality = 0.0012
-Node 120: Closeness Centrality = 0.0012
-Node 121: Closeness Centrality = 0.0012
-Node 122: Closeness Centrality = 0.0012
-Node 123: Closeness Centrality = 0.0012
-Node 124: Closeness Centrality = 0.0012
-Node 125: Closeness Centrality = 0.0012
-Node 126: Closeness Centrality = 0.0012
-Node 127: Closeness Centrality = 0.0012
-Node 128: Closeness Centrality = 0.0012
-Node 129: Closeness Centrality = 0.0012
-Node 130: Closeness Centrality = 0.0012
-Node 131: Closeness Centrality = 0.0012
-Node 132: Closeness Centrality = 0.0012
-Node 133: Closeness Centrality = 0.0012
-Node 134: Closeness Centrality = 0.0012
-Node 135: Closeness Centrality = 0.0012
-Node 136: Closeness Centrality = 0.0012
-Node 137: Closeness Centrality = 0.0012
-Node 138: Closeness Centrality = 0.0012
-Node 139: Closeness Centrality = 0.0012
-Node 140: Closeness Centrality = 0.0012
-Node 141: Closeness Centrality = 0.0012
-Node 142: Closeness Centrality = 0.0012
-Node 143: Closeness Centrality = 0.0012
-Node 144: Closeness Centrality = 0.0012
-Node 145: Closeness Centrality = 0.0012
-Node 146: Closeness Centrality = 0.0012
-Node 147: Closeness Centrality = 0.0012
-Node 148: Closeness Centrality = 0.0012
-Node 149: Closeness Centrality = 0.0012
-Node 150: Closeness Centrality = 0.0012
-Node 151: Closeness Centrality = 0.0012
-Node 152: Closeness Centrality = 0.0012
-Node 153: Closeness Centrality = 0.0012
-Node 154: Closeness Centrality = 0.0012
-Node 155: Closeness Centrality = 0.0012
-Node 156: Closeness Centrality = 0.0012
-Node 157: Closeness Centrality = 0.0012
-Node 158: Closeness Centrality = 0.0012
-Node 159: Closeness Centrality = 0.0012
-Node 160: Closeness Centrality = 0.0012
-Node 161: Closeness Centrality = 0.0012
-Node 162: Closeness Centrality = 0.0012
-Node 163: Closeness Centrality = 0.0012
-Node 164: Closeness Centrality = 0.0012
-Node 165: Closeness Centrality = 0.0012
-Node 166: Closeness Centrality = 0.0012
-Node 167: Closeness Centrality = 0.0012
-Node 168: Closeness Centrality = 0.0012
-Node 169: Closeness Centrality = 0.0012
-Node 170: Closeness Centrality = 0.0012
-Node 171: Closeness Centrality = 0.0012
-Node 172: Closeness Centrality = 0.0012
-Node 173: Closeness Centrality = 0.0012
-Node 174: Closeness Centrality = 0.0012
-Node 175: Closeness Centrality = 0.0012
-Node 176: Closeness Centrality = 0.0012
-Node 177: Closeness Centrality = 0.0012
-Node 178: Closeness Centrality = 0.0012
-Node 179: Closeness Centrality = 0.0012
-Node 180: Closeness Centrality = 0.0012
-Node 181: Closeness Centrality = 0.0012
-Node 182: Closeness Centrality = 0.0012
-Node 183: Closeness Centrality = 0.0012
-Node 184: Closeness Centrality = 0.0012
-Node 185: Closeness Centrality = 0.0012
-Node 186: Closeness Centrality = 0.0012
-Node 187: Closeness Centrality = 0.0012
-Node 188: Closeness Centrality = 0.0012
-Node 189: Closeness Centrality = 0.0012
-Node 190: Closeness Centrality = 0.0012
-Node 191: Closeness Centrality = 0.0012
-Node 192: Closeness Centrality = 0.0012
-Node 193: Closeness Centrality = 0.0012
-Node 194: Closeness Centrality = 0.0012
-Node 195: Closeness Centrality = 0.0012
-Node 196: Closeness Centrality = 0.0012
-Node 197: Closeness Centrality = 0.0012
-Node 198: Closeness Centrality = 0.0012
-Node 199: Closeness Centrality = 0.0012
-Node 200: Closeness Centrality = 0.0012
-Node 201: Closeness Centrality = 0.0012
-Node 202: Closeness Centrality = 0.0012
-Node 203: Closeness Centrality = 0.0012
-Node 204: Closeness Centrality = 0.0012
-Node 205: Closeness Centrality = 0.0012
-Node 206: Closeness Centrality = 0.0012
-Node 207: Closeness Centrality = 0.0012
-Node 208: Closeness Centrality = 0.0012
-Node 209: Closeness Centrality = 0.0012
-Node 210: Closeness Centrality = 0.0012
-Node 211: Closeness Centrality = 0.0012
-Node 212: Closeness Centrality = 0.0012
-Node 213: Closeness Centrality = 0.0012
-Node 214: Closeness Centrality = 0.0012
-Node 215: Closeness Centrality = 0.0012
-Node 216: Closeness Centrality = 0.0012
-Node 217: Closeness Centrality = 0.0012
-Node 218: Closeness Centrality = 0.0012
-Node 219: Closeness Centrality = 0.0012
-Node 220: Closeness Centrality = 0.0012
-Node 221: Closeness Centrality = 0.0012
-Node 222: Closeness Centrality = 0.0012
-Node 223: Closeness Centrality = 0.0012
-Node 224: Closeness Centrality = 0.0012
-Node 225: Closeness Centrality = 0.0012
-Node 226: Closeness Centrality = 0.0012
-Node 227: Closeness Centrality = 0.0012
-Node 228: Closeness Centrality = 0.0012
-Node 229: Closeness Centrality = 0.0012
-Node 230: Closeness Centrality = 0.0012
-Node 231: Closeness Centrality = 0.0012
-Node 232: Closeness Centrality = 0.0012
-Node 233: Closeness Centrality = 0.0012
-Node 234: Closeness Centrality = 0.0012
-Node 235: Closeness Centrality = 0.0012
-Node 236: Closeness Centrality = 0.0012
-Node 237: Closeness Centrality = 0.0012
-Node 238: Closeness Centrality = 0.0012
-Node 239: Closeness Centrality = 0.0012
-Node 240: Closeness Centrality = 0.0012
-Node 241: Closeness Centrality = 0.0012
-Node 242: Closeness Centrality = 0.0012
-Node 243: Closeness Centrality = 0.0012
-Node 244: Closeness Centrality = 0.0012
-Node 245: Closeness Centrality = 0.0012
-Node 246: Closeness Centrality = 0.0012
-Node 247: Closeness Centrality = 0.0012
-Node 248: Closeness Centrality = 0.0012
-Node 249: Closeness Centrality = 0.0012
-Node 250: Closeness Centrality = 0.0012
-Node 251: Closeness Centrality = 0.0012
-Node 252: Closeness Centrality = 0.0012
-Node 253: Closeness Centrality = 0.0012
-Node 254: Closeness Centrality = 0.0012
-Node 255: Closeness Centrality = 0.0012
-Node 256: Closeness Centrality = 0.0012
-Node 257: Closeness Centrality = 0.0012
-Node 258: Closeness Centrality = 0.0012
-Node 259: Closeness Centrality = 0.0012
-Node 260: Closeness Centrality = 0.0012
-Node 261: Closeness Centrality = 0.0012
-Node 262: Closeness Centrality = 0.0012
-Node 263: Closeness Centrality = 0.0012
-Node 264: Closeness Centrality = 0.0012
-Node 265: Closeness Centrality = 0.0012
-Node 266: Closeness Centrality = 0.0012
-Node 267: Closeness Centrality = 0.0012
-Node 268: Closeness Centrality = 0.0012
-Node 269: Closeness Centrality = 0.0012
-Node 270: Closeness Centrality = 0.0012
-Node 271: Closeness Centrality = 0.0012
-Node 272: Closeness Centrality = 0.0012
-Node 273: Closeness Centrality = 0.0012
-Node 274: Closeness Centrality = 0.0012
-Node 275: Closeness Centrality = 0.0012
-Node 276: Closeness Centrality = 0.0012
-Node 277: Closeness Centrality = 0.0012
-Node 278: Closeness Centrality = 0.0012
-Node 279: Closeness Centrality = 0.0012
-Node 280: Closeness Centrality = 0.0012
-Node 281: Closeness Centrality = 0.0012
-Node 282: Closeness Centrality = 0.0012
-Node 283: Closeness Centrality = 0.0012
-Node 284: Closeness Centrality = 0.0012
-Node 285: Closeness Centrality = 0.0012
-Node 286: Closeness Centrality = 0.0012
-Node 287: Closeness Centrality = 0.0012
-Node 288: Closeness Centrality = 0.0012
-Node 289: Closeness Centrality = 0.0012
-Node 290: Closeness Centrality = 0.0012
-Node 291: Closeness Centrality = 0.0012
-Node 292: Closeness Centrality = 0.0012
-Node 293: Closeness Centrality = 0.0012
-Node 294: Closeness Centrality = 0.0012
-Node 295: Closeness Centrality = 0.0012
-Node 296: Closeness Centrality = 0.0012
-Node 297: Closeness Centrality = 0.0012
-Node 298: Closeness Centrality = 0.0012
-Node 299: Closeness Centrality = 0.0012
-Node 300: Closeness Centrality = 0.0012
-Node 301: Closeness Centrality = 0.0012
-Node 302: Closeness Centrality = 0.0012
-Node 303: Closeness Centrality = 0.0012
-Node 304: Closeness Centrality = 0.0012
-Node 305: Closeness Centrality = 0.0012
-Node 306: Closeness Centrality = 0.0012
-Node 307: Closeness Centrality = 0.0012
-Node 308: Closeness Centrality = 0.0012
-Node 309: Closeness Centrality = 0.0012
-Node 310: Closeness Centrality = 0.0012
-Node 311: Closeness Centrality = 0.0012
-Node 312: Closeness Centrality = 0.0012
-Node 313: Closeness Centrality = 0.0012
-Node 314: Closeness Centrality = 0.0012
-Node 315: Closeness Centrality = 0.0012
-Node 316: Closeness Centrality = 0.0012
-Node 317: Closeness Centrality = 0.0012
-Node 318: Closeness Centrality = 0.0012
-Node 319: Closeness Centrality = 0.0012
-Node 320: Closeness Centrality = 0.0012
-Node 321: Closeness Centrality = 0.0012
-Node 322: Closeness Centrality = 0.0012
-Node 323: Closeness Centrality = 0.0012
-Node 324: Closeness Centrality = 0.0012
-Node 325: Closeness Centrality = 0.0012
-Node 326: Closeness Centrality = 0.0012
-Node 327: Closeness Centrality = 0.0012
-Node 328: Closeness Centrality = 0.0012
-Node 329: Closeness Centrality = 0.0012
-Node 330: Closeness Centrality = 0.0012
-Node 331: Closeness Centrality = 0.0012
-Node 332: Closeness Centrality = 0.0012
-Node 333: Closeness Centrality = 0.0012
-Node 334: Closeness Centrality = 0.0012
-Node 335: Closeness Centrality = 0.0012
-Node 336: Closeness Centrality = 0.0012
-Node 337: Closeness Centrality = 0.0012
-Node 338: Closeness Centrality = 0.0012
-Node 339: Closeness Centrality = 0.0012
-Node 340: Closeness Centrality = 0.0012
-Node 341: Closeness Centrality = 0.0012
-Node 342: Closeness Centrality = 0.0012
-Node 343: Closeness Centrality = 0.0012
-Node 344: Closeness Centrality = 0.0012
-Node 345: Closeness Centrality = 0.0012
-Node 346: Closeness Centrality = 0.0012
-Node 347: Closeness Centrality = 0.0012
-Node 348: Closeness Centrality = 0.0012
-Node 349: Closeness Centrality = 0.0008
-Node 350: Closeness Centrality = 0.0000
-Node 351: Closeness Centrality = 0.0000
-Node 352: Closeness Centrality = 0.0000
-Node 353: Closeness Centrality = 0.0000
-Node 354: Closeness Centrality = 0.0000
-Node 355: Closeness Centrality = 0.0000
-Node 356: Closeness Centrality = 0.0000
-Node 357: Closeness Centrality = 0.0000
-Node 358: Closeness Centrality = 0.0000
-Node 359: Closeness Centrality = 0.0000
-Node 360: Closeness Centrality = 0.0000
-Node 361: Closeness Centrality = 0.0000
-Node 362: Closeness Centrality = 0.0000
-Node 363: Closeness Centrality = 0.0000
-Node 364: Closeness Centrality = 0.0000
-Node 365: Closeness Centrality = 0.0000
-Node 366: Closeness Centrality = 0.0000
-Node 367: Closeness Centrality = 0.0000
-Node 368: Closeness Centrality = 0.0000
-Node 369: Closeness Centrality = 0.0000
-Node 370: Closeness Centrality = 0.0000
-Node 371: Closeness Centrality = 0.0000
-Node 372: Closeness Centrality = 0.0000
-Node 373: Closeness Centrality = 0.0000
-Node 374: Closeness Centrality = 0.0000
-Node 375: Closeness Centrality = 0.0000
-Node 376: Closeness Centrality = 0.0000
-Node 377: Closeness Centrality = 0.0000
-Node 378: Closeness Centrality = 0.0000
-Node 379: Closeness Centrality = 0.0000
-Node 380: Closeness Centrality = 0.0000
-Node 381: Closeness Centrality = 0.0000
-Node 382: Closeness Centrality = 0.0000
-Node 383: Closeness Centrality = 0.0000
-Node 384: Closeness Centrality = 0.0000
-Node 385: Closeness Centrality = 0.0000
-Node 386: Closeness Centrality = 0.0000
-Node 387: Closeness Centrality = 0.0000
-Node 388: Closeness Centrality = 0.0000
-Node 389: Closeness Centrality = 0.0000
-Node 390: Closeness Centrality = 0.0000
-Node 391: Closeness Centrality = 0.0000
-Node 392: Closeness Centrality = 0.0000
-Node 393: Closeness Centrality = 0.0000
-Node 394: Closeness Centrality = 0.0000
-Node 395: Closeness Centrality = 0.0000
-Node 396: Closeness Centrality = 0.0000
-Node 397: Closeness Centrality = 0.0000
-Node 398: Closeness Centrality = 0.0000
-Node 399: Closeness Centrality = 0.0000
-Node 400: Closeness Centrality = 0.0000
-Node 401: Closeness Centrality = 0.0000
-Node 402: Closeness Centrality = 0.0000
-Node 403: Closeness Centrality = 0.0000
-Node 404: Closeness Centrality = 0.0000
-Node 405: Closeness Centrality = 0.0000
-Node 406: Closeness Centrality = 0.0000
-Node 407: Closeness Centrality = 0.0000
-Node 408: Closeness Centrality = 0.0000
-Node 409: Closeness Centrality = 0.0000
-Node 410: Closeness Centrality = 0.0000
-Node 411: Closeness Centrality = 0.0000
-Node 412: Closeness Centrality = 0.0000
-Node 413: Closeness Centrality = 0.0000
-Node 414: Closeness Centrality = 0.0000
-Node 415: Closeness Centrality = 0.0008
-Node 416: Closeness Centrality = 0.0000
-Node 417: Closeness Centrality = 0.0000
-Node 418: Closeness Centrality = 0.0000
-Node 419: Closeness Centrality = 0.0000
-Node 420: Closeness Centrality = 0.0000
-Node 421: Closeness Centrality = 0.0000
-Node 422: Closeness Centrality = 0.0000
-Node 423: Closeness Centrality = 0.0000
-Node 424: Closeness Centrality = 0.0000
-Node 425: Closeness Centrality = 0.0000
-Node 426: Closeness Centrality = 0.0000
-Node 427: Closeness Centrality = 0.0000
-Node 428: Closeness Centrality = 0.0000
+Node 0: 0.522866
+Node 1: 0.344516
+Node 2: 0.344032
+Node 3: 0.344516
+Node 4: 0.344032
+Node 5: 0.344239
+Node 6: 0.343756
+Node 7: 0.352590
+Node 8: 0.343894
+Node 9: 0.347307
+Node 10: 0.344032
+Node 11: 0.343412
+Node 12: 0.343412
+Node 13: 0.345488
+Node 14: 0.344378
+Node 15: 0.343412
+Node 16: 0.343963
+Node 17: 0.344239
+Node 18: 0.343412
+Node 19: 0.344447
+Node 20: 0.344378
+Node 21: 0.355883
+Node 22: 0.344101
+Node 23: 0.344516
+Node 24: 0.344447
+Node 25: 0.348153
+Node 26: 0.348082
+Node 27: 0.343687
+Node 28: 0.344239
+Node 29: 0.344239
+Node 30: 0.344516
+Node 31: 0.344932
+Node 32: 0.343756
+Node 33: 0.343481
+Node 34: 0.375602
+Node 35: 0.343481
+Node 36: 0.344101
+Node 37: 0.343412
+Node 38: 0.343963
+Node 39: 0.344378
+Node 40: 0.346395
+Node 41: 0.345001
+Node 42: 0.343481
+Node 43: 0.343412
+Node 44: 0.343756
+Node 45: 0.344170
+Node 46: 0.343687
+Node 47: 0.343481
+Node 48: 0.344862
+Node 49: 0.343619
+Node 50: 0.344101
+Node 51: 0.343825
+Node 52: 0.343481
+Node 53: 0.345488
+Node 54: 0.343894
+Node 55: 0.344516
+Node 56: 0.356846
+Node 57: 0.344378
+Node 58: 0.459170
+Node 59: 0.344654
+Node 60: 0.343894
+Node 61: 0.343550
+Node 62: 0.345140
+Node 63: 0.343756
+Node 64: 0.344793
+Node 65: 0.344170
+Node 66: 0.344378
+Node 67: 0.356697
+Node 68: 0.343963
+Node 69: 0.344032
+Node 70: 0.343481
+Node 71: 0.343550
+Node 72: 0.345001
+Node 73: 0.344032
+Node 74: 0.343412
+Node 75: 0.344308
+Node 76: 0.343550
+Node 77: 0.343756
+Node 78: 0.343963
+Node 79: 0.344170
+Node 80: 0.359614
+Node 81: 0.343550
+Node 82: 0.345696
+Node 83: 0.343825
+Node 84: 0.344239
+Node 85: 0.344308
+Node 86: 0.343756
+Node 87: 0.352084
+Node 88: 0.344724
+Node 89: 0.343894
+Node 90: 0.343481
+Node 91: 0.343894
+Node 92: 0.344793
+Node 93: 0.343894
+Node 94: 0.344862
+Node 95: 0.343756
+Node 96: 0.343963
+Node 97: 0.343550
+Node 98: 0.346745
+Node 99: 0.344239
+Node 100: 0.343963
+Node 101: 0.344654
+Node 102: 0.343756
+Node 103: 0.352301
+Node 104: 0.345557
+Node 105: 0.344308
+Node 106: 0.343894
+Node 107: 0.687650
+Node 108: 0.344239
+Node 109: 0.345906
+Node 110: 0.343687
+Node 111: 0.344308
+Node 112: 0.343550
+Node 113: 0.346115
+Node 114: 0.343412
+Node 115: 0.344793
+Node 116: 0.344516
+Node 117: 0.343756
+Node 118: 0.345836
+Node 119: 0.348648
+Node 120: 0.351434
+Node 121: 0.344170
+Node 122: 0.355735
+Node 123: 0.344585
+Node 124: 0.343619
+Node 125: 0.351434
+Node 126: 0.343825
+Node 127: 0.344447
+Node 128: 0.345279
+Node 129: 0.343825
+Node 130: 0.344447
+Node 131: 0.343825
+Node 132: 0.344447
+Node 133: 0.344585
+Node 134: 0.344654
+Node 135: 0.344032
+Node 136: 0.360977
+Node 137: 0.344447
+Node 138: 0.343481
+Node 139: 0.343963
+Node 140: 0.344101
+Node 141: 0.345279
+Node 142: 0.346325
+Node 143: 0.344170
+Node 144: 0.344378
+Node 145: 0.343481
+Node 146: 0.351867
+Node 147: 0.343756
+Node 148: 0.344724
+Node 149: 0.344308
+Node 150: 0.345070
+Node 151: 0.343825
+Node 152: 0.343687
+Node 153: 0.343481
+Node 154: 0.343481
+Node 155: 0.343550
+Node 156: 0.352011
+Node 157: 0.343550
+Node 158: 0.345070
+Node 159: 0.344308
+Node 160: 0.343481
+Node 161: 0.345070
+Node 162: 0.343894
+Node 163: 0.358337
+Node 164: 0.343550
+Node 165: 0.344101
+Node 166: 0.358787
+Node 167: 0.343825
+Node 168: 0.344101
+Node 169: 0.353900
+Node 170: 0.346535
+Node 171: 0.460403
+Node 172: 0.346185
+Node 173: 0.376179
+Node 174: 0.343619
+Node 175: 0.344516
+Node 176: 0.344308
+Node 177: 0.344101
+Node 178: 0.344239
+Node 179: 0.343550
+Node 180: 0.344724
+Node 181: 0.344032
+Node 182: 0.343550
+Node 183: 0.343481
+Node 184: 0.344585
+Node 185: 0.345140
+Node 186: 0.346395
+Node 187: 0.344447
+Node 188: 0.346675
+Node 189: 0.344793
+Node 190: 0.343619
+Node 191: 0.343550
+Node 192: 0.343687
+Node 193: 0.343687
+Node 194: 0.344654
+Node 195: 0.343963
+Node 196: 0.344239
+Node 197: 0.344447
+Node 198: 0.376096
+Node 199: 0.346605
+Node 200: 0.347307
+Node 201: 0.343619
+Node 202: 0.358187
+Node 203: 0.347307
+Node 204: 0.344862
+Node 205: 0.343481
+Node 206: 0.343619
+Node 207: 0.343550
+Node 208: 0.343825
+Node 209: 0.343412
+Node 210: 0.343412
+Node 211: 0.345418
+Node 212: 0.344585
+Node 213: 0.353973
+Node 214: 0.344516
+Node 215: 0.343412
+Node 216: 0.343481
+Node 217: 0.344862
+Node 218: 0.343963
+Node 219: 0.343756
+Node 220: 0.343619
+Node 221: 0.343894
+Node 222: 0.344101
+Node 223: 0.345209
+Node 224: 0.345279
+Node 225: 0.344032
+Node 226: 0.344308
+Node 227: 0.344378
+Node 228: 0.343550
+Node 229: 0.343756
+Node 230: 0.343963
+Node 231: 0.344793
+Node 232: 0.345070
+Node 233: 0.343481
+Node 234: 0.343481
+Node 235: 0.343687
+Node 236: 0.345906
+Node 237: 0.343825
+Node 238: 0.344932
+Node 239: 0.347447
+Node 240: 0.343550
+Node 241: 0.343481
+Node 242: 0.345001
+Node 243: 0.343894
+Node 244: 0.343481
+Node 245: 0.343687
+Node 246: 0.352156
+Node 247: 0.343550
+Node 248: 0.344793
+Node 249: 0.345001
+Node 250: 0.343687
+Node 251: 0.344308
+Node 252: 0.347870
+Node 253: 0.343550
+Node 254: 0.344516
+Node 255: 0.343481
+Node 256: 0.343481
+Node 257: 0.344585
+Node 258: 0.344378
+Node 259: 0.343894
+Node 260: 0.343894
+Node 261: 0.345975
+Node 262: 0.343619
+Node 263: 0.343825
+Node 264: 0.343687
+Node 265: 0.345209
+Node 266: 0.344585
+Node 267: 0.343481
+Node 268: 0.344101
+Node 269: 0.344308
+Node 270: 0.343619
+Node 271: 0.348436
+Node 272: 0.346465
+Node 273: 0.343963
+Node 274: 0.344308
+Node 275: 0.344032
+Node 276: 0.344585
+Node 277: 0.347870
+Node 278: 0.344032
+Node 279: 0.343481
+Node 280: 0.346325
+Node 281: 0.344447
+Node 282: 0.343481
+Node 283: 0.343687
+Node 284: 0.344447
+Node 285: 0.354559
+Node 286: 0.343481
+Node 287: 0.343412
+Node 288: 0.343619
+Node 289: 0.343619
+Node 290: 0.344308
+Node 291: 0.345836
+Node 292: 0.343412
+Node 293: 0.343550
+Node 294: 0.343550
+Node 295: 0.344032
+Node 296: 0.343825
+Node 297: 0.345070
+Node 298: 0.344101
+Node 299: 0.344724
+Node 300: 0.343825
+Node 301: 0.343550
+Node 302: 0.344724
+Node 303: 0.344793
+Node 304: 0.355146
+Node 305: 0.343481
+Node 306: 0.343963
+Node 307: 0.343619
+Node 308: 0.352881
+Node 309: 0.344032
+Node 310: 0.344239
+Node 311: 0.343825
+Node 312: 0.345140
+Node 313: 0.345906
+Node 314: 0.344239
+Node 315: 0.355220
+Node 316: 0.343481
+Node 317: 0.343825
+Node 318: 0.344101
+Node 319: 0.343894
+Node 320: 0.344793
+Node 321: 0.343550
+Node 322: 0.356401
+Node 323: 0.346045
+Node 324: 0.353026
+Node 325: 0.346045
+Node 326: 0.344654
+Node 327: 0.343619
+Node 328: 0.343963
+Node 329: 0.345418
+Node 330: 0.344447
+Node 331: 0.344724
+Node 332: 0.346325
+Node 333: 0.343894
+Node 334: 0.345279
+Node 335: 0.343412
+Node 336: 0.343550
+Node 337: 0.343963
+Node 338: 0.343825
+Node 339: 0.353099
+Node 340: 0.343756
+Node 341: 0.344170
+Node 342: 0.345696
+Node 343: 0.344585
+Node 344: 0.343963
+Node 345: 0.344447
+Node 346: 0.345209
+Node 347: 0.343825
+Node 348: 0.455511
+Node 349: 0.313242
+Node 350: 0.314160
+Node 351: 0.341158
+Node 352: 0.314275
+Node 353: 0.437612
+Node 354: 0.313013
+Node 355: 0.313013
+Node 356: 0.313013
+Node 357: 0.313013
+Node 358: 0.313013
+Node 359: 0.313013
+Node 360: 0.313013
+Node 361: 0.313013
+Node 362: 0.313013
+Node 363: 0.429287
+Node 364: 0.341022
+Node 365: 0.313013
+Node 366: 0.429287
+Node 367: 0.313013
+Node 368: 0.313070
+Node 369: 0.313070
+Node 370: 0.314506
+Node 371: 0.313013
+Node 372: 0.313013
+Node 373: 0.314506
+Node 374: 0.313013
+Node 375: 0.313070
+Node 376: 0.429287
+Node 377: 0.313013
+Node 378: 0.313013
+Node 379: 0.313013
+Node 380: 0.313013
+Node 381: 0.313013
+Node 382: 0.313013
+Node 383: 0.313013
+Node 384: 0.313070
+Node 385: 0.313013
+Node 386: 0.313013
+Node 387: 0.313013
+Node 388: 0.314506
+Node 389: 0.429179
+Node 390: 0.313013
+Node 391: 0.314506
+Node 392: 0.313013
+Node 393: 0.340954
+Node 394: 0.314563
+Node 395: 0.313013
+Node 396: 0.313013
+Node 397: 0.313070
+Node 398: 0.313070
+Node 399: 0.340954
+Node 400: 0.314506
+Node 401: 0.313013
+Node 402: 0.313013
+Node 403: 0.313013
+Node 404: 0.314563
+Node 405: 0.313013
+Node 406: 0.313013
+Node 407: 0.313070
+Node 408: 0.314563
+Node 409: 0.314563
+Node 410: 0.313013
+Node 411: 0.313013
+Node 412: 0.314563
+Node 413: 0.313013
+Node 414: 0.429825
+Node 415: 0.313013
+Node 416: 0.313013
+Node 417: 0.314506
+Node 418: 0.313013
+Node 419: 0.314563
+Node 420: 0.429287
+Node 421: 0.313013
+Node 422: 0.313013
+Node 423: 0.313013
+Node 424: 0.313013
+Node 425: 0.313013
+Node 426: 0.313070
+Node 427: 0.341226
+Node 428: 0.429394
+Node 429: 0.313013
+Node 430: 0.314506
+Node 431: 0.314563
+Node 432: 0.314506
+Node 433: 0.313070
+Node 434: 0.313070
+Node 435: 0.313013
+Node 436: 0.313013
+Node 437: 0.313013
+Node 438: 0.313013
+Node 439: 0.313013
+Node 440: 0.313013
+Node 441: 0.340954
+Node 442: 0.313013
+Node 443: 0.313013
+Node 444: 0.313013
+Node 445: 0.313013
+Node 446: 0.314506
+Node 447: 0.313013
+Node 448: 0.313013
+Node 449: 0.313013
+Node 450: 0.313013
+Node 451: 0.313013
+Node 452: 0.313013
+Node 453: 0.313013
+Node 454: 0.313070
+Node 455: 0.313070
+Node 456: 0.313070
+Node 457: 0.313013
+Node 458: 0.313013
+Node 459: 0.313013
+Node 460: 0.314506
+Node 461: 0.313013
+Node 462: 0.314563
+Node 463: 0.313013
+Node 464: 0.341226
+Node 465: 0.313013
+Node 466: 0.313013
+Node 467: 0.313013
+Node 468: 0.313013
+Node 469: 0.313013
+Node 470: 0.313013
+Node 471: 0.314506
+Node 472: 0.313013
+Node 473: 0.313013
+Node 474: 0.313013
+Node 475: 0.429287
+Node 476: 0.340954
+Node 477: 0.313013
+Node 478: 0.313070
+Node 479: 0.313070
+Node 480: 0.313013
+Node 481: 0.313013
+Node 482: 0.314506
+Node 483: 0.429287
+Node 484: 0.429502
+Node 485: 0.313013
+Node 486: 0.313013
+Node 487: 0.314506
+Node 488: 0.313013
+Node 489: 0.313013
+Node 490: 0.313013
+Node 491: 0.313013
+Node 492: 0.314563
+Node 493: 0.314563
+Node 494: 0.313070
+Node 495: 0.313013
+Node 496: 0.314506
+Node 497: 0.314563
+Node 498: 0.313013
+Node 499: 0.313013
+Node 500: 0.314506
+Node 501: 0.340954
+Node 502: 0.313013
+Node 503: 0.314563
+Node 504: 0.313070
+Node 505: 0.313013
+Node 506: 0.313013
+Node 507: 0.313013
+Node 508: 0.313070
+Node 509: 0.313013
+Node 510: 0.313013
+Node 511: 0.313013
+Node 512: 0.313013
+Node 513: 0.314506
+Node 514: 0.314506
+Node 515: 0.314506
+Node 516: 0.313013
+Node 517: 0.429394
+Node 518: 0.313013
+Node 519: 0.313070
+Node 520: 0.314506
+Node 521: 0.313013
+Node 522: 0.313013
+Node 523: 0.313013
+Node 524: 0.314506
+Node 525: 0.313070
+Node 526: 0.429287
+Node 527: 0.313070
+Node 528: 0.313070
+Node 529: 0.313013
+Node 530: 0.313013
+Node 531: 0.313070
+Node 532: 0.313013
+Node 533: 0.313013
+Node 534: 0.313070
+Node 535: 0.313013
+Node 536: 0.313070
+Node 537: 0.314506
+Node 538: 0.429394
+Node 539: 0.313013
+Node 540: 0.314506
+Node 541: 0.313013
+Node 542: 0.314563
+Node 543: 0.313070
+Node 544: 0.314506
+Node 545: 0.313013
+Node 546: 0.313070
+Node 547: 0.313013
+Node 548: 0.313013
+Node 549: 0.341294
+Node 550: 0.313013
+Node 551: 0.313013
+Node 552: 0.313070
+Node 553: 0.313013
+Node 554: 0.313013
+Node 555: 0.313013
+Node 556: 0.313013
+Node 557: 0.313013
+Node 558: 0.313013
+Node 559: 0.314506
+Node 560: 0.314506
+Node 561: 0.314563
+Node 562: 0.313013
+Node 563: 0.429287
+Node 564: 0.341022
+Node 565: 0.313013
+Node 566: 0.429287
+Node 567: 0.314506
+Node 568: 0.313013
+Node 569: 0.313013
+Node 570: 0.313013
+Node 571: 0.313013
+Node 572: 0.313013
+Node 580: 0.411567
+Node 596: 0.407557
+Node 601: 0.411567
+Node 606: 0.411567
+Node 629: 0.407557
+Node 637: 0.411567
+Node 641: 0.411567
+Node 649: 0.408528
+Node 651: 0.411567
+Node 896: 0.407557
+Node 897: 0.407557
+Node 898: 0.407557
+Node 899: 0.407557
+Node 900: 0.407557
+Node 901: 0.407557
+Node 902: 0.407557
+Node 903: 0.407557
+Node 904: 0.408723
+Node 905: 0.407557
+Node 906: 0.407557
+Node 907: 0.407557
+Node 908: 0.407557
+Node 909: 0.407557
+Node 910: 0.407557
+Node 911: 0.407557
+Node 912: 0.407557
+Node 913: 0.407557
+Node 914: 0.407557
+Node 915: 0.407557
+Node 916: 0.407557
+Node 917: 0.407557
+Node 918: 0.407557
+Node 919: 0.407557
+Node 920: 0.407557
+Node 921: 0.407557
+Node 922: 0.407557
+Node 923: 0.407557
+Node 924: 0.407557
+Node 925: 0.407557
+Node 926: 0.407557
+Node 927: 0.407557
+Node 928: 0.407557
+Node 929: 0.407557
+Node 930: 0.411567
+Node 931: 0.407557
+Node 932: 0.407557
+Node 933: 0.407557
+Node 934: 0.407557
+Node 935: 0.407557
+Node 936: 0.411567
+Node 937: 0.407557
+Node 938: 0.407557
+Node 939: 0.407557
+Node 940: 0.407557
+Node 941: 0.407557
+Node 942: 0.407557
+Node 943: 0.407557
+Node 944: 0.407557
+Node 945: 0.407557
+Node 946: 0.407557
+Node 947: 0.407557
+Node 948: 0.407557
+Node 949: 0.407557
+Node 950: 0.407557
+Node 951: 0.407557
+Node 952: 0.407557
+Node 953: 0.407557
+Node 954: 0.407557
+Node 955: 0.407557
+Node 956: 0.407557
+Node 957: 0.407557
+Node 958: 0.407557
+Node 959: 0.407557
+Node 960: 0.407557
+Node 961: 0.407557
+Node 962: 0.407557
+Node 963: 0.407557
+Node 964: 0.407557
+Node 965: 0.407557
+Node 966: 0.407557
+Node 967: 0.407557
+Node 968: 0.407557
+Node 969: 0.407557
+Node 970: 0.407557
+Node 971: 0.407557
+Node 972: 0.407557
+Node 973: 0.407557
+Node 974: 0.407557
+Node 975: 0.407557
+Node 976: 0.411567
+Node 977: 0.407557
+Node 978: 0.407557
+Node 979: 0.407557
+Node 980: 0.407557
+Node 981: 0.407557
+Node 982: 0.407557
+Node 983: 0.407557
+Node 984: 0.407557
+Node 985: 0.407557
+Node 986: 0.407557
+Node 987: 0.407557
+Node 988: 0.407557
+Node 989: 0.407557
+Node 990: 0.407557
+Node 991: 0.407557
+Node 992: 0.407557
+Node 993: 0.407557
+Node 994: 0.407557
+Node 995: 0.407557
+Node 996: 0.407557
+Node 997: 0.407557
+Node 998: 0.407557
+Node 999: 0.407557
+Node 1000: 0.407557
+Node 1001: 0.407557
+Node 1002: 0.407557
+Node 1003: 0.407557
+Node 1004: 0.407557
+Node 1005: 0.407557
+Node 1006: 0.407557
+Node 1007: 0.407557
+Node 1008: 0.407557
+Node 1009: 0.407557
+Node 1010: 0.407557
+Node 1011: 0.407557
+Node 1012: 0.411567
+Node 1013: 0.407557
+Node 1014: 0.407557
+Node 1015: 0.407557
+Node 1016: 0.407557
+Node 1017: 0.407557
+Node 1018: 0.407557
+Node 1019: 0.407557
+Node 1020: 0.407557
+Node 1021: 0.407557
+Node 1022: 0.407557
+Node 1023: 0.407557
+Node 1024: 0.407557
+Node 1025: 0.429179
+Node 1026: 0.407557
+Node 1027: 0.407557
+Node 1028: 0.407557
+Node 1029: 0.407557
+Node 1030: 0.407557
+Node 1031: 0.407557
+Node 1032: 0.407557
+Node 1033: 0.407557
+Node 1034: 0.407557
+Node 1035: 0.407557
+Node 1036: 0.407557
+Node 1037: 0.407557
+Node 1038: 0.407557
+Node 1039: 0.407557
+Node 1040: 0.407557
+Node 1041: 0.407557
+Node 1042: 0.407557
+Node 1043: 0.407557
+Node 1044: 0.407557
+Node 1045: 0.407557
+Node 1046: 0.407557
+Node 1047: 0.407557
+Node 1048: 0.407557
+Node 1049: 0.407557
+Node 1050: 0.407557
+Node 1051: 0.407557
+Node 1052: 0.407557
+Node 1053: 0.407557
+Node 1054: 0.407557
+Node 1055: 0.407557
+Node 1056: 0.407557
+Node 1057: 0.407557
+Node 1058: 0.407557
+Node 1059: 0.407557
+Node 1060: 0.407557
+Node 1061: 0.407557
+Node 1062: 0.407557
+Node 1063: 0.407557
+Node 1064: 0.407557
+Node 1065: 0.407557
+Node 1066: 0.407557
+Node 1067: 0.407557
+Node 1068: 0.407557
+Node 1069: 0.407557
+Node 1070: 0.407557
+Node 1071: 0.407557
+Node 1072: 0.407557
+Node 1073: 0.407557
+Node 1074: 0.407557
+Node 1075: 0.411567
+Node 1076: 0.407557
+Node 1077: 0.407557
+Node 1078: 0.407557
+Node 1079: 0.407557
+Node 1080: 0.411567
+Node 1081: 0.407557
+Node 1082: 0.407557
+Node 1083: 0.407557
+Node 1084: 0.407557
+Node 1085: 0.407557
+Node 1086: 0.407557
+Node 1087: 0.407557
+Node 1088: 0.407557
+Node 1089: 0.407557
+Node 1090: 0.407557
+Node 1091: 0.407557
+Node 1092: 0.407557
+Node 1093: 0.407557
+Node 1094: 0.407557
+Node 1095: 0.407557
+Node 1096: 0.407557
+Node 1097: 0.407557
+Node 1098: 0.407557
+Node 1099: 0.407557
+Node 1100: 0.407557
+Node 1101: 0.407557
+Node 1102: 0.407557
+Node 1103: 0.407557
+Node 1104: 0.407557
+Node 1105: 0.407557
+Node 1106: 0.407557
+Node 1107: 0.407557
+Node 1108: 0.407557
+Node 1109: 0.407557
+Node 1110: 0.407557
+Node 1111: 0.407557
+Node 1112: 0.407557
+Node 1113: 0.407557
+Node 1114: 0.411567
+Node 1115: 0.407557
+Node 1116: 0.407557
+Node 1117: 0.407557
+Node 1118: 0.407557
+Node 1119: 0.407557
+Node 1120: 0.407557
+Node 1121: 0.407557
+Node 1122: 0.411567
+Node 1123: 0.407557
+Node 1124: 0.407557
+Node 1125: 0.407557
+Node 1126: 0.407557
+Node 1127: 0.407557
+Node 1128: 0.407557
+Node 1129: 0.407557
+Node 1130: 0.407557
+Node 1131: 0.407557
+Node 1132: 0.407557
+Node 1133: 0.407557
+Node 1134: 0.407557
+Node 1135: 0.407557
+Node 1136: 0.407557
+Node 1137: 0.407557
+Node 1138: 0.407557
+Node 1139: 0.407557
+Node 1140: 0.407557
+Node 1141: 0.407557
+Node 1142: 0.407557
+Node 1143: 0.407557
+Node 1144: 0.407557
+Node 1145: 0.407557
+Node 1146: 0.407557
+Node 1147: 0.407557
+Node 1148: 0.407557
+Node 1149: 0.407557
+Node 1150: 0.407557
+Node 1151: 0.407557
+Node 1152: 0.407557
+Node 1153: 0.407557
+Node 1154: 0.407557
+Node 1155: 0.411567
+Node 1156: 0.407557
+Node 1157: 0.407557
+Node 1158: 0.407557
+Node 1159: 0.407557
+Node 1160: 0.407557
+Node 1161: 0.407557
+Node 1162: 0.407557
+Node 1163: 0.407557
+Node 1164: 0.407557
+Node 1165: 0.407557
+Node 1166: 0.407557
+Node 1167: 0.407557
+Node 1168: 0.407557
+Node 1169: 0.407557
+Node 1170: 0.407557
+Node 1171: 0.408723
+Node 1172: 0.407557
+Node 1173: 0.407557
+Node 1174: 0.407557
+Node 1175: 0.407557
+Node 1176: 0.407557
+Node 1177: 0.407557
+Node 1178: 0.407557
+Node 1179: 0.407557
+Node 1180: 0.407557
+Node 1181: 0.407557
+Node 1182: 0.407557
+Node 1183: 0.407557
+Node 1184: 0.407557
+Node 1185: 0.407557
+Node 1186: 0.407557
+Node 1187: 0.407557
+Node 1188: 0.407557
+Node 1189: 0.407557
+Node 1190: 0.407557
+Node 1191: 0.407557
+Node 1192: 0.407557
+Node 1193: 0.408723
+Node 1194: 0.407557
+Node 1195: 0.407557
+Node 1196: 0.407557
+Node 1197: 0.407557
+Node 1198: 0.407557
+Node 1199: 0.407557
+Node 1200: 0.407557
+Node 1201: 0.407557
+Node 1202: 0.407557
+Node 1203: 0.407557
+Node 1204: 0.407557
+Node 1205: 0.407557
+Node 1206: 0.407557
+Node 1207: 0.407557
+Node 1208: 0.407557
+Node 1209: 0.407557
+Node 1210: 0.407557
+Node 1211: 0.407557
+Node 1212: 0.407557
+Node 1213: 0.407557
+Node 1214: 0.407557
+Node 1215: 0.407557
+Node 1216: 0.407557
+Node 1217: 0.407557
+Node 1218: 0.407557
+Node 1219: 0.407557
+Node 1220: 0.407557
+Node 1221: 0.407557
+Node 1222: 0.407557
+Node 1223: 0.407557
+Node 1224: 0.407557
+Node 1225: 0.407557
+Node 1226: 0.407557
+Node 1227: 0.407557
+Node 1228: 0.407557
+Node 1229: 0.407557
+Node 1230: 0.407557
+Node 1231: 0.407557
+Node 1232: 0.407557
+Node 1233: 0.407557
+Node 1234: 0.407557
+Node 1235: 0.407557
+Node 1236: 0.407557
+Node 1237: 0.411567
+Node 1238: 0.407557
+Node 1239: 0.407557
+Node 1240: 0.407557
+Node 1241: 0.407557
+Node 1242: 0.407557
+Node 1243: 0.407557
+Node 1244: 0.407557
+Node 1245: 0.407557
+Node 1246: 0.407557
+Node 1247: 0.407557
+Node 1248: 0.407557
+Node 1249: 0.407557
+Node 1250: 0.407557
+Node 1251: 0.407557
+Node 1252: 0.407557
+Node 1253: 0.407557
+Node 1254: 0.407557
+Node 1255: 0.407557
+Node 1256: 0.407557
+Node 1257: 0.407557
+Node 1258: 0.407557
+Node 1259: 0.407557
+Node 1260: 0.407557
+Node 1261: 0.407557
+Node 1262: 0.407557
+Node 1263: 0.407557
+Node 1264: 0.407557
+Node 1265: 0.407557
+Node 1266: 0.407557
+Node 1267: 0.407557
+Node 1268: 0.407557
+Node 1269: 0.407557
+Node 1270: 0.407557
+Node 1271: 0.407557
+Node 1272: 0.407557
+Node 1273: 0.407557
+Node 1274: 0.407557
+Node 1275: 0.407557
+Node 1276: 0.407557
+Node 1277: 0.407557
+Node 1278: 0.407557
+Node 1279: 0.407557
+Node 1280: 0.407557
+Node 1281: 0.407557
+Node 1282: 0.407557
+Node 1283: 0.407557
+Node 1284: 0.407557
+Node 1285: 0.407557
+Node 1286: 0.407557
+Node 1287: 0.407557
+Node 1288: 0.407557
+Node 1289: 0.407557
+Node 1290: 0.407557
+Node 1291: 0.407557
+Node 1292: 0.407557
+Node 1293: 0.407557
+Node 1294: 0.407557
+Node 1295: 0.407557
+Node 1296: 0.407557
+Node 1297: 0.408723
+Node 1298: 0.407557
+Node 1299: 0.407557
+Node 1300: 0.407557
+Node 1301: 0.407557
+Node 1302: 0.407557
+Node 1303: 0.407557
+Node 1304: 0.407557
+Node 1305: 0.407557
+Node 1306: 0.407557
+Node 1307: 0.407557
+Node 1308: 0.407557
+Node 1309: 0.407557
+Node 1310: 0.407557
+Node 1311: 0.407557
+Node 1312: 0.407557
+Node 1313: 0.411567
+Node 1314: 0.407557
+Node 1315: 0.407557
+Node 1316: 0.407557
+Node 1317: 0.407557
+Node 1318: 0.407557
+Node 1319: 0.407557
+Node 1320: 0.411567
+Node 1321: 0.407557
+Node 1322: 0.407557
+Node 1323: 0.407557
+Node 1324: 0.407557
+Node 1325: 0.407557
+Node 1326: 0.407557
+Node 1327: 0.407557
+Node 1328: 0.407557
+Node 1329: 0.407557
+Node 1330: 0.407557
+Node 1331: 0.407557
+Node 1332: 0.407557
+Node 1333: 0.407557
+Node 1334: 0.407557
+Node 1335: 0.407557
+Node 1336: 0.407557
+Node 1337: 0.407557
+Node 1338: 0.407557
+Node 1339: 0.407557
+Node 1340: 0.407557
+Node 1341: 0.407557
+Node 1342: 0.407557
+Node 1343: 0.407557
+Node 1344: 0.407557
+Node 1345: 0.407557
+Node 1346: 0.407557
+Node 1347: 0.407557
+Node 1348: 0.407557
+Node 1349: 0.411567
+Node 1350: 0.407557
+Node 1351: 0.407557
+Node 1352: 0.407557
+Node 1353: 0.407557
+Node 1354: 0.407557
+Node 1355: 0.407557
+Node 1356: 0.407557
+Node 1357: 0.407557
+Node 1358: 0.411567
+Node 1359: 0.407557
+Node 1360: 0.407557
+Node 1361: 0.407557
+Node 1362: 0.407557
+Node 1363: 0.407557
+Node 1364: 0.407557
+Node 1365: 0.407557
+Node 1366: 0.407557
+Node 1367: 0.407557
+Node 1368: 0.407557
+Node 1369: 0.407557
+Node 1370: 0.407557
+Node 1371: 0.407557
+Node 1372: 0.407557
+Node 1373: 0.407557
+Node 1374: 0.411567
+Node 1375: 0.407557
+Node 1376: 0.407557
+Node 1377: 0.407557
+Node 1378: 0.407557
+Node 1379: 0.407557
+Node 1380: 0.407557
+Node 1381: 0.407557
+Node 1382: 0.407557
+Node 1383: 0.407557
+Node 1384: 0.407557
+Node 1385: 0.407557
+Node 1386: 0.407557
+Node 1387: 0.408723
+Node 1388: 0.407557
+Node 1389: 0.407557
+Node 1390: 0.407557
+Node 1391: 0.407557
+Node 1392: 0.407557
+Node 1393: 0.407557
+Node 1394: 0.407557
+Node 1395: 0.407557
+Node 1396: 0.407557
+Node 1397: 0.411567
+Node 1398: 0.407557
+Node 1399: 0.407557
+Node 1400: 0.407557
+Node 1401: 0.407557
+Node 1402: 0.407557
+Node 1403: 0.407557
+Node 1404: 0.407557
+Node 1405: 0.407557
+Node 1406: 0.407557
+Node 1407: 0.407557
+Node 1408: 0.407557
+Node 1409: 0.407557
+Node 1410: 0.407557
+Node 1411: 0.407557
+Node 1412: 0.407557
+Node 1413: 0.407557
+Node 1414: 0.407557
+Node 1415: 0.407557
+Node 1416: 0.407557
+Node 1417: 0.407557
+Node 1418: 0.407557
+Node 1419: 0.407557
+Node 1420: 0.407557
+Node 1421: 0.407557
+Node 1422: 0.407557
+Node 1423: 0.407557
+Node 1424: 0.407557
+Node 1425: 0.411567
+Node 1426: 0.407557
+Node 1427: 0.411567
+Node 1428: 0.407557
+Node 1429: 0.407557
+Node 1430: 0.407557
+Node 1431: 0.407557
+Node 1432: 0.407557
+Node 1433: 0.407557
+Node 1434: 0.407557
+Node 1435: 0.407557
+Node 1436: 0.407557
+Node 1437: 0.407557
+Node 1438: 0.407557
+Node 1439: 0.407557
+Node 1440: 0.407557
+Node 1441: 0.407557
+Node 1442: 0.407557
+Node 1443: 0.407557
+Node 1444: 0.407557
+Node 1445: 0.407557
+Node 1446: 0.407557
+Node 1447: 0.407557
+Node 1448: 0.407557
+Node 1449: 0.407557
+Node 1450: 0.407557
+Node 1451: 0.407557
+Node 1452: 0.407557
+Node 1453: 0.407557
+Node 1454: 0.407557
+Node 1455: 0.407557
+Node 1456: 0.407557
+Node 1457: 0.407557
+Node 1458: 0.407557
+Node 1459: 0.407557
+Node 1460: 0.407557
+Node 1461: 0.407557
+Node 1462: 0.407557
+Node 1463: 0.407557
+Node 1464: 0.407557
+Node 1465: 0.407557
+Node 1466: 0.407557
+Node 1467: 0.407557
+Node 1468: 0.407557
+Node 1469: 0.407557
+Node 1470: 0.407557
+Node 1471: 0.407557
+Node 1472: 0.407557
+Node 1473: 0.407557
+Node 1474: 0.407557
+Node 1475: 0.411567
+Node 1476: 0.407557
+Node 1477: 0.407557
+Node 1478: 0.407557
+Node 1479: 0.407557
+Node 1480: 0.407557
+Node 1481: 0.407557
+Node 1482: 0.407557
+Node 1483: 0.407557
+Node 1484: 0.407557
+Node 1485: 0.407557
+Node 1486: 0.408723
+Node 1487: 0.407557
+Node 1488: 0.407557
+Node 1489: 0.407557
+Node 1490: 0.407557
+Node 1491: 0.407557
+Node 1492: 0.407557
+Node 1493: 0.407557
+Node 1494: 0.407557
+Node 1495: 0.407557
+Node 1496: 0.407557
+Node 1497: 0.407557
+Node 1498: 0.407557
+Node 1499: 0.407557
+Node 1500: 0.407557
+Node 1501: 0.407557
+Node 1502: 0.407557
+Node 1503: 0.407557
+Node 1504: 0.407557
+Node 1505: 0.407557
+Node 1506: 0.407557
+Node 1507: 0.407557
+Node 1508: 0.407557
+Node 1509: 0.407557
+Node 1510: 0.407557
+Node 1511: 0.407557
+Node 1512: 0.407557
+Node 1513: 0.407557
+Node 1514: 0.407557
+Node 1515: 0.407557
+Node 1516: 0.407557
+Node 1517: 0.407557
+Node 1518: 0.407557
+Node 1519: 0.407557
+Node 1520: 0.407557
+Node 1521: 0.407557
+Node 1522: 0.407557
+Node 1523: 0.407557
+Node 1524: 0.407557
+Node 1525: 0.407557
+Node 1526: 0.407557
+Node 1527: 0.407557
+Node 1528: 0.407557
+Node 1529: 0.407557
+Node 1530: 0.407557
+Node 1531: 0.407557
+Node 1532: 0.407557
+Node 1533: 0.407557
+Node 1534: 0.407557
+Node 1535: 0.407557
+Node 1536: 0.407557
+Node 1537: 0.407557
+Node 1538: 0.407557
+Node 1539: 0.407557
+Node 1540: 0.407557
+Node 1541: 0.407557
+Node 1542: 0.407557
+Node 1543: 0.407557
+Node 1544: 0.407557
+Node 1545: 0.407557
+Node 1546: 0.407557
+Node 1547: 0.407557
+Node 1548: 0.407557
+Node 1549: 0.408723
+Node 1550: 0.407557
+Node 1551: 0.407557
+Node 1552: 0.407557
+Node 1553: 0.407557
+Node 1554: 0.407557
+Node 1555: 0.407557
+Node 1556: 0.407557
+Node 1557: 0.407557
+Node 1558: 0.407557
+Node 1559: 0.407557
+Node 1560: 0.407557
+Node 1561: 0.407557
+Node 1562: 0.407557
+Node 1563: 0.407557
+Node 1564: 0.407557
+Node 1565: 0.407557
+Node 1566: 0.407557
+Node 1567: 0.407557
+Node 1568: 0.407557
+Node 1569: 0.407557
+Node 1570: 0.407557
+Node 1571: 0.407557
+Node 1572: 0.407557
+Node 1573: 0.407557
+Node 1574: 0.407557
+Node 1575: 0.407557
+Node 1576: 0.407557
+Node 1577: 0.407557
+Node 1578: 0.407557
+Node 1579: 0.407557
+Node 1580: 0.407557
+Node 1581: 0.407557
+Node 1582: 0.407557
+Node 1583: 0.407557
+Node 1584: 0.407557
+Node 1585: 0.407557
+Node 1586: 0.407557
+Node 1587: 0.407557
+Node 1588: 0.407557
+Node 1589: 0.407557
+Node 1590: 0.407557
+Node 1591: 0.407557
+Node 1592: 0.407557
+Node 1593: 0.407557
+Node 1594: 0.407557
+Node 1595: 0.407557
+Node 1596: 0.407557
+Node 1597: 0.407557
+Node 1598: 0.407557
+Node 1599: 0.407557
+Node 1600: 0.407557
+Node 1601: 0.407557
+Node 1602: 0.407557
+Node 1603: 0.407557
+Node 1604: 0.407557
+Node 1605: 0.407557
+Node 1606: 0.407557
+Node 1607: 0.407557
+Node 1608: 0.407557
+Node 1609: 0.407557
+Node 1610: 0.407557
+Node 1611: 0.407557
+Node 1612: 0.407557
+Node 1613: 0.407557
+Node 1614: 0.407557
+Node 1615: 0.407557
+Node 1616: 0.407557
+Node 1617: 0.407557
+Node 1618: 0.407557
+Node 1619: 0.407557
+Node 1620: 0.407557
+Node 1621: 0.407557
+Node 1622: 0.407557
+Node 1623: 0.407557
+Node 1624: 0.407557
+Node 1625: 0.407557
+Node 1626: 0.407557
+Node 1627: 0.407557
+Node 1628: 0.407557
+Node 1629: 0.407557
+Node 1630: 0.407557
+Node 1631: 0.407557
+Node 1632: 0.407557
+Node 1633: 0.407557
+Node 1634: 0.407557
+Node 1635: 0.407557
+Node 1636: 0.407557
+Node 1637: 0.407557
+Node 1638: 0.407557
+Node 1639: 0.407557
+Node 1640: 0.407557
+Node 1641: 0.407557
+Node 1642: 0.407557
+Node 1643: 0.407557
+Node 1644: 0.407557
+Node 1645: 0.407557
+Node 1646: 0.407557
+Node 1647: 0.407557
+Node 1648: 0.407557
+Node 1649: 0.407557
+Node 1650: 0.407557
+Node 1651: 0.407557
+Node 1652: 0.407557
+Node 1653: 0.407557
+Node 1654: 0.407557
+Node 1655: 0.407557
+Node 1656: 0.407557
+Node 1657: 0.407557
+Node 1658: 0.407557
+Node 1659: 0.407557
+Node 1660: 0.407557
+Node 1661: 0.407557
+Node 1662: 0.407557
+Node 1663: 0.407557
+Node 1664: 0.407557
+Node 1665: 0.407557
+Node 1666: 0.407557
+Node 1667: 0.407557
+Node 1668: 0.407557
+Node 1669: 0.407557
+Node 1670: 0.407557
+Node 1671: 0.407557
+Node 1672: 0.407557
+Node 1673: 0.407557
+Node 1674: 0.407557
+Node 1675: 0.407557
+Node 1676: 0.407557
+Node 1677: 0.407557
+Node 1678: 0.407557
+Node 1679: 0.407557
+Node 1680: 0.407557
+Node 1681: 0.407557
+Node 1682: 0.407557
+Node 1683: 0.407557
+Node 1684: 0.409210
+Node 1685: 0.407557
+Node 1686: 0.407557
+Node 1687: 0.407557
+Node 1688: 0.407557
+Node 1689: 0.407557
+Node 1690: 0.407557
+Node 1691: 0.407557
+Node 1692: 0.407557
+Node 1693: 0.407557
+Node 1694: 0.407557
+Node 1695: 0.407557
+Node 1696: 0.407557
+Node 1697: 0.407557
+Node 1698: 0.407557
+Node 1699: 0.407557
+Node 1700: 0.407557
+Node 1701: 0.407557
+Node 1702: 0.407557
+Node 1703: 0.407557
+Node 1704: 0.407557
+Node 1705: 0.407557
+Node 1706: 0.407557
+Node 1707: 0.407557
+Node 1708: 0.407557
+Node 1709: 0.407557
+Node 1710: 0.407557
+Node 1711: 0.407557
+Node 1712: 0.407557
+Node 1713: 0.407557
+Node 1714: 0.407557
+Node 1715: 0.407557
+Node 1716: 0.407557
+Node 1717: 0.407557
+Node 1718: 0.432426
+Node 1719: 0.407557
+Node 1720: 0.407557
+Node 1721: 0.407557
+Node 1722: 0.407557
+Node 1723: 0.407557
+Node 1724: 0.407557
+Node 1725: 0.407557
+Node 1726: 0.407557
+Node 1727: 0.407557
+Node 1728: 0.407557
+Node 1729: 0.407557
+Node 1730: 0.407557
+Node 1731: 0.407557
+Node 1732: 0.407557
+Node 1733: 0.407557
+Node 1734: 0.407557
+Node 1735: 0.407557
+Node 1736: 0.407557
+Node 1737: 0.407557
+Node 1738: 0.407557
+Node 1739: 0.407557
+Node 1740: 0.407557
+Node 1741: 0.407557
+Node 1742: 0.407557
+Node 1743: 0.407557
+Node 1744: 0.407557
+Node 1745: 0.407557
+Node 1746: 0.407557
+Node 1747: 0.407557
+Node 1748: 0.407557
+Node 1749: 0.407557
+Node 1750: 0.407557
+Node 1751: 0.407557
+Node 1752: 0.407557
+Node 1753: 0.407557
+Node 1754: 0.407557
+Node 1755: 0.407557
+Node 1756: 0.407557
+Node 1757: 0.407557
+Node 1758: 0.407557
+Node 1759: 0.407557
+Node 1760: 0.407557
+Node 1761: 0.407557
+Node 1762: 0.407557
+Node 1763: 0.407557
+Node 1764: 0.407557
+Node 1765: 0.407557
+Node 1766: 0.407557
+Node 1767: 0.407557
+Node 1768: 0.407557
+Node 1769: 0.407557
+Node 1770: 0.407557
+Node 1771: 0.407557
+Node 1772: 0.407557
+Node 1773: 0.407557
+Node 1774: 0.407557
+Node 1775: 0.407557
+Node 1776: 0.407557
+Node 1777: 0.407557
+Node 1778: 0.407557
+Node 1779: 0.407557
+Node 1780: 0.407557
+Node 1781: 0.407557
+Node 1782: 0.407557
+Node 1783: 0.407557
+Node 1784: 0.407557
+Node 1785: 0.407557
+Node 1786: 0.407557
+Node 1787: 0.407557
+Node 1788: 0.407557
+Node 1789: 0.407557
+Node 1790: 0.407557
+Node 1791: 0.407557
+Node 1792: 0.407557
+Node 1793: 0.407557
+Node 1794: 0.407557
+Node 1795: 0.407557
+Node 1796: 0.407557
+Node 1797: 0.407557
+Node 1798: 0.407557
+Node 1799: 0.407557
+Node 1800: 0.407557
+Node 1801: 0.407557
+Node 1802: 0.407557
+Node 1803: 0.407557
+Node 1804: 0.407557
+Node 1805: 0.407557
+Node 1806: 0.407557
+Node 1807: 0.407557
+Node 1808: 0.407557
+Node 1809: 0.407557
+Node 1810: 0.407557
+Node 1811: 0.407557
+Node 1812: 0.407557
+Node 1813: 0.407557
+Node 1814: 0.407557
+Node 1815: 0.407557
+Node 1816: 0.407557
+Node 1817: 0.407557
+Node 1818: 0.407557
+Node 1819: 0.407557
+Node 1820: 0.407557
+Node 1821: 0.407557
+Node 1822: 0.407557
+Node 1823: 0.407557
+Node 1824: 0.407557
+Node 1825: 0.407557
+Node 1826: 0.407557
+Node 1827: 0.407557
+Node 1828: 0.407557
+Node 1829: 0.407557
+Node 1830: 0.407557
+Node 1831: 0.407557
+Node 1832: 0.407557
+Node 1833: 0.407557
+Node 1834: 0.407557
+Node 1835: 0.407557
+Node 1836: 0.407557
+Node 1837: 0.407557
+Node 1838: 0.407557
+Node 1839: 0.407557
+Node 1840: 0.407557
+Node 1841: 0.407557
+Node 1842: 0.407557
+Node 1843: 0.407557
+Node 1844: 0.407557
+Node 1845: 0.407557
+Node 1846: 0.407557
+Node 1847: 0.407557
+Node 1848: 0.407557
+Node 1849: 0.407557
+Node 1850: 0.407557
+Node 1851: 0.407557
+Node 1852: 0.407557
+Node 1853: 0.407557
+Node 1854: 0.407557
+Node 1855: 0.407557
+Node 1856: 0.407557
+Node 1857: 0.407557
+Node 1858: 0.407557
+Node 1859: 0.407557
+Node 1860: 0.407557
+Node 1861: 0.407557
+Node 1862: 0.407557
+Node 1863: 0.407557
+Node 1864: 0.407557
+Node 1865: 0.407557
+Node 1866: 0.407557
+Node 1867: 0.407557
+Node 1868: 0.407557
+Node 1869: 0.407557
+Node 1870: 0.407557
+Node 1871: 0.407557
+Node 1872: 0.407557
+Node 1873: 0.407557
+Node 1874: 0.407557
+Node 1875: 0.407557
+Node 1876: 0.407557
+Node 1877: 0.407557
+Node 1878: 0.407557
+Node 1879: 0.407557
+Node 1880: 0.407557
+Node 1881: 0.407557
+Node 1882: 0.407557
+Node 1883: 0.407557
+Node 1884: 0.407557
+Node 1885: 0.407557
+Node 1886: 0.407557
+Node 1887: 0.407557
+Node 1888: 0.407557
+Node 1889: 0.407557
+Node 1890: 0.407557
+Node 1891: 0.407557
+Node 1892: 0.407557
+Node 1893: 0.407557
+Node 1894: 0.407557
+Node 1895: 0.407557
+Node 1896: 0.407557
+Node 1897: 0.407557
+Node 1898: 0.407557
+Node 1899: 0.407557
+Node 1900: 0.407557
+Node 1901: 0.407557
+Node 1902: 0.407557
+Node 1903: 0.407557
+Node 1904: 0.407557
+Node 1905: 0.407557
+Node 1906: 0.407557
+Node 1907: 0.407557
+Node 1908: 0.407557
+Node 1909: 0.407557
+Node 1910: 0.407557
+Node 1911: 0.407557
+Node 1912: 0.329364
+Node 1926: 0.265275
+Node 1932: 0.265275
+Node 1939: 0.265275
+Node 1945: 0.265275
+Node 1951: 0.265275
+Node 1955: 0.265275
+Node 1972: 0.265275
+Node 1973: 0.265275
+Node 1976: 0.265275
+Node 1991: 0.265275
+Node 1995: 0.265275
+Node 1998: 0.265275
+Node 2001: 0.265275
+Node 2004: 0.265275
+Node 2007: 0.265275
+Node 2009: 0.265275
+Node 2018: 0.265275
+Node 2024: 0.265275
+Node 2027: 0.265275
+Node 2032: 0.265275
+Node 2038: 0.265275
+Node 2039: 0.265275
+Node 2042: 0.265275
+Node 2054: 0.265275
+Node 2068: 0.265275
+Node 2071: 0.265275
+Node 2072: 0.265275
+Node 2081: 0.265275
+Node 2102: 0.265275
+Node 2111: 0.265275
+Node 2116: 0.265275
+Node 2117: 0.265275
+Node 2127: 0.265275
+Node 2128: 0.265275
+Node 2133: 0.265275
+Node 2135: 0.265275
+Node 2138: 0.265275
+Node 2143: 0.265275
+Node 2153: 0.265275
+Node 2157: 0.265275
+Node 2171: 0.265275
+Node 2174: 0.265275
+Node 2180: 0.265275
+Node 2183: 0.265275
+Node 2187: 0.265275
+Node 2189: 0.265275
+Node 2199: 0.265275
+Node 2203: 0.265275
+Node 2223: 0.265275
+Node 2224: 0.265275
+Node 2225: 0.265275
+Node 2247: 0.265275
+Node 2250: 0.265275
+Node 2254: 0.265275
+Node 2264: 0.265275
+Node 2267: 0.265275
+Node 2268: 0.265275
+Node 2279: 0.265275
+Node 2283: 0.265275
+Node 2284: 0.265275
+Node 2289: 0.265275
+Node 2292: 0.265275
+Node 2302: 0.265275
+Node 2319: 0.265275
+Node 2327: 0.265275
+Node 2336: 0.265275
+Node 2337: 0.265275
+Node 2364: 0.265275
+Node 2378: 0.265275
+Node 2384: 0.265275
+Node 2398: 0.265275
+Node 2417: 0.265275
+Node 2436: 0.265275
+Node 2445: 0.265275
+Node 2447: 0.265275
+Node 2451: 0.265275
+Node 2458: 0.265275
+Node 2459: 0.265275
+Node 2461: 0.265275
+Node 2463: 0.265275
+Node 2471: 0.265275
+Node 2472: 0.265275
+Node 2475: 0.265275
+Node 2491: 0.265275
+Node 2494: 0.265275
+Node 2498: 0.265275
+Node 2502: 0.265275
+Node 2508: 0.265275
+Node 2510: 0.265275
+Node 2511: 0.265275
+Node 2529: 0.265275
+Node 2533: 0.265275
+Node 2538: 0.265275
+Node 2543: 0.265275
+Node 2547: 0.265275
+Node 2571: 0.265275
+Node 2583: 0.265275
+Node 2589: 0.265275
+Node 2598: 0.265275
+Node 2617: 0.265275
+Node 2629: 0.265275
+Node 2635: 0.265275
+Node 2636: 0.265275
+Node 2640: 0.265275
+Node 2643: 0.265275
+Node 2647: 0.265275
+Node 2649: 0.265275
+Node 2653: 0.265275
+Node 2660: 0.265275
+Node 2704: 0.315315
+Node 2740: 0.315315
+Node 2814: 0.314737
+Node 2838: 0.315605
+Node 2885: 0.315605
+Node 3003: 0.315605
+Node 3173: 0.314737
+Node 3290: 0.315605
