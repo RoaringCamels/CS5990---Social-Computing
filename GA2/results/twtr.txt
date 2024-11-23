@@ -1,0 +1,134 @@
+(venv) C:\Users\Ivan\Desktop\CS5990---Social-Computing>mpiexec -n 2 python GA2/main.py 
+Read 121038 edges out of 2420766 total edges (5.0%)
+Graph has 6308 nodes and 86772 edges
+Process 0: Reading graph...
+Read 121038 edges out of 2420766 total edges (5.0%)
+Graph has 6308 nodes and 86772 edges
+
+Top 5 Nodes by Closeness Centrality:
+Node 7393462: 6307.000000
+Node 7593252: 6307.000000
+Node 33467691: 6307.000000
+Node 40204661: 6307.000000
+Node 15975781: 6307.000000
+
+Average Centrality: 28.478387
+
+Execution time: 41.96 seconds
+Number of processors used: 2
+---------------------------------------------------------------------------------------------------
+(venv) C:\Users\Ivan\Desktop\CS5990---Social-Computing>mpiexec -n 4 python GA2/main.py
+Read 121038 edges out of 2420766 total edges (5.0%)
+Graph has 6308 nodes and 86772 edges
+Read 121038 edges out of 2420766 total edges (5.0%)
+Graph has 6308 nodes and 86772 edges
+Read 121038 edges out of 2420766 total edges (5.0%)
+Graph has 6308 nodes and 86772 edges
+Process 0: Reading graph...
+Read 121038 edges out of 2420766 total edges (5.0%)
+Graph has 6308 nodes and 86772 edges
+
+Top 5 Nodes by Closeness Centrality:
+Node 7393462: 6307.000000
+Node 7593252: 6307.000000
+Node 33467691: 6307.000000
+Node 40204661: 6307.000000
+Node 15975781: 6307.000000
+
+Average Centrality: 28.478387
+
+Execution time: 24.23 seconds
+Number of processors used: 4
+---------------------------------------------------------------------------------------------------
+(venv) C:\Users\Ivan\Desktop\CS5990---Social-Computing>mpiexec -n 6 python GA2/main.py 
+Read 121038 edges out of 2420766 total edges (5.0%)
+Graph has 6308 nodes and 86772 edges
+Read 121038 edges out of 2420766 total edges (5.0%)
+Graph has 6308 nodes and 86772 edges
+Read 121038 edges out of 2420766 total edges (5.0%)
+Graph has 6308 nodes and 86772 edges
+Read 121038 edges out of 2420766 total edges (5.0%)
+Graph has 6308 nodes and 86772 edges
+Read 121038 edges out of 2420766 total edges (5.0%)
+Graph has 6308 nodes and 86772 edges
+Process 0: Reading graph...
+Read 121038 edges out of 2420766 total edges (5.0%)
+Graph has 6308 nodes and 86772 edges
+
+Top 5 Nodes by Closeness Centrality:
+Node 7393462: 6307.000000
+Node 7593252: 6307.000000
+Node 33467691: 6307.000000
+Node 40204661: 6307.000000
+Node 15975781: 6307.000000
+
+Average Centrality: 28.478387
+
+Execution time: 19.56 seconds
+Number of processors used: 6
+---------------------------------------------------------------------------------------------------
+(venv) C:\Users\Ivan\Desktop\CS5990---Social-Computing>mpiexec -n 8 python GA2/main.py 
+Read 121038 edges out of 2420766 total edges (5.0%)
+Graph has 6308 nodes and 86772 edges
+Read 121038 edges out of 2420766 total edges (5.0%)
+Graph has 6308 nodes and 86772 edges
+Read 121038 edges out of 2420766 total edges (5.0%)
+Graph has 6308 nodes and 86772 edges
+Read 121038 edges out of 2420766 total edges (5.0%)
+Graph has 6308 nodes and 86772 edges
+Read 121038 edges out of 2420766 total edges (5.0%)
+Graph has 6308 nodes and 86772 edges
+Read 121038 edges out of 2420766 total edges (5.0%)
+Graph has 6308 nodes and 86772 edges
+Read 121038 edges out of 2420766 total edges (5.0%)
+Graph has 6308 nodes and 86772 edges
+Process 0: Reading graph...
+Read 121038 edges out of 2420766 total edges (5.0%)
+Graph has 6308 nodes and 86772 edges
+
+Top 5 Nodes by Closeness Centrality:
+Node 7393462: 6307.000000
+Node 7593252: 6307.000000
+Node 33467691: 6307.000000
+Node 40204661: 6307.000000
+Node 15975781: 6307.000000
+
+Average Centrality: 28.478387
+
+Execution time: 15.88 seconds
+Number of processors used: 8
+---------------------------------------------------------------------------------------------------
+(venv) C:\Users\Ivan\Desktop\CS5990---Social-Computing>mpiexec -n 10 python GA2/main.py 
+Read 121038 edges out of 2420766 total edges (5.0%)
+Graph has 6308 nodes and 86772 edges
+Read 121038 edges out of 2420766 total edges (5.0%)
+Graph has 6308 nodes and 86772 edges
+Read 121038 edges out of 2420766 total edges (5.0%)
+Graph has 6308 nodes and 86772 edges
+Read 121038 edges out of 2420766 total edges (5.0%)
+Graph has 6308 nodes and 86772 edges
+Read 121038 edges out of 2420766 total edges (5.0%)
+Graph has 6308 nodes and 86772 edges
+Read 121038 edges out of 2420766 total edges (5.0%)
+Graph has 6308 nodes and 86772 edges
+Read 121038 edges out of 2420766 total edges (5.0%)
+Graph has 6308 nodes and 86772 edges
+Read 121038 edges out of 2420766 total edges (5.0%)
+Graph has 6308 nodes and 86772 edges
+Read 121038 edges out of 2420766 total edges (5.0%)
+Graph has 6308 nodes and 86772 edges
+Process 0: Reading graph...
+Read 121038 edges out of 2420766 total edges (5.0%)
+Graph has 6308 nodes and 86772 edges
+
+Top 5 Nodes by Closeness Centrality:
+Node 7393462: 6307.000000
+Node 7593252: 6307.000000
+Node 33467691: 6307.000000
+Node 40204661: 6307.000000
+Node 15975781: 6307.000000
+
+Average Centrality: 28.478387
+
+Execution time: 14.88 seconds
+Number of processors used: 10
