@@ -24,8 +24,8 @@ class ParallelClosenessCentralityCalculator:
         """
         self.graph = graph
         self.comm = MPI.COMM_WORLD
-        self.rank = self.comm.Get_rank()
-        self.size = self.comm.Get_size()
+        self.rank = self.comm.Get_rank()    # id of the processor
+        self.size = self.comm.Get_size()    # total number of processors available
         self.num_nodes = len(graph)
         
     def calculate_node_assignments(self):
@@ -40,7 +40,7 @@ class ParallelClosenessCentralityCalculator:
             List of nodes assigned to current processor
         """
         nodes = list(self.graph.nodes())  # O(|V|)
-        nodes_per_proc = len(nodes) // self.size
+        nodes_per_proc = len(nodes) // self.size        # each processor is assigned around the same number of nodes
         remainder = len(nodes) % self.size
         
         start_idx = self.rank * nodes_per_proc + min(self.rank, remainder)
@@ -69,6 +69,7 @@ class ParallelClosenessCentralityCalculator:
         # For each assigned node
         for node in my_nodes:  # O(|V|/P) iterations
             # O(|E|) time for shortest paths using NetworkX
+            # Calculate the shortest paths to all other nodes
             length_dict = nx.single_source_shortest_path_length(self.graph, node)
             
             # O(|V|) time to sum distances

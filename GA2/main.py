@@ -13,10 +13,10 @@ def test():
         print(f"Process {rank}: Reading graph...")
         
     # Set the path to your data file
-    data_path = "GA2/data/fb.txt"
+    data_path = "GA2/data/twtr.txt"
     
     # Read the graph
-    graph = read_graph(data_path, 1.0)
+    graph = read_graph(data_path, 0.10)
     
     # Create calculator instance with the graph
     calculator = ParallelClosenessCentralityCalculator(graph)
