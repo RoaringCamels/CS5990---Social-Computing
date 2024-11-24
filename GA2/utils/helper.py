@@ -12,7 +12,7 @@ class ParallelClosenessCentralityCalculator:
     where |V| is number of vertices, |E| is number of edges, P is number of processors
     """
     
-    def __init__(self, graph):
+    def __init__(self, graph, centrality_type = 'closeness'):
         """
         Initialize calculator with a graph and MPI components
         
@@ -27,6 +27,10 @@ class ParallelClosenessCentralityCalculator:
         self.rank = self.comm.Get_rank()    # id of the processor
         self.size = self.comm.Get_size()    # total number of processors available
         self.num_nodes = len(graph)
+        self.centrality_type = centrality_type.lower()
+
+        if self.centrality_type not in ['closeness', 'betweenness']:
+            raise ValueError("centrality_type must be either 'closeness' or 'betweenness'")
         
     def calculate_node_assignments(self):
         """
@@ -132,3 +136,45 @@ class ParallelClosenessCentralityCalculator:
         # O(|V|) for sum operation
         avg_centrality = sum(centrality.values()) / len(centrality)
         print(f"\nAverage Centrality: {avg_centrality:.6f}")
+
+    def calculate_betweenness_centrality(self):
+        """
+        Compute betweenness centrality in parallel using all available processors
+        
+        Time Complexity: O(|V|/P * |V| * |E|) for each processor's computation
+        Space Complexity: 
+        - O(|V|/P) for local_centrality dictionary per processor
+        - O(|V|) for combined results in root processor
+        """
+        start_time = time.time()
+        
+        my_nodes = self.calculate_node_assignments()
+        local_centrality = {node: nx.betweenness_centrality(self.graph)[node] for node in my_nodes}
+        
+        # Gather results from all processors
+        all_centrality = self.comm.gather(local_centrality, root=0)
+        
+        if self.rank == 0:
+            # Combine results
+            combined_centrality = {}
+            for proc_centrality in all_centrality:
+                combined_centrality.update(proc_centrality)
+            
+            self.write_results(combined_centrality)
+            self.print_analysis(combined_centrality)
+            
+            end_time = time.time()
+            execution_time = end_time - start_time
+            return combined_centrality, execution_time
+        
+        return None, None
+    
+    def calculate_centrality(self):
+        """
+        Calculate either closeness or betweenness centrality based on initialization parameter
+        """
+        if self.centrality_type == 'closeness':
+            return self.calculate_closeness_centrality()
+        else:
+            return self.calculate_betweenness_centrality()
+        
