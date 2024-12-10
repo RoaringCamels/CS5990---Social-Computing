@@ -21,7 +21,7 @@ def test():
     # Create calculator instance with the graph
     c = 'closeness'
     b = 'betweenness'
-    calculator = ParallelClosenessCentralityCalculator(graph,b)
+    calculator = ParallelClosenessCentralityCalculator(graph,c)
     
     # Calculate centrality
     centrality, execution_time = calculator.calculate_centrality()
